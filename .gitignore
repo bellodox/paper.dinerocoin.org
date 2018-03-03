@@ -6,3 +6,5 @@ node_modules
 /packages
 /packages.config
 /.nuget
+# Mac specific
+.DS_Store
