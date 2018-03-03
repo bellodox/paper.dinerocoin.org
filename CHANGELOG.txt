@@ -27,6 +27,8 @@ END USER NOTES:
  7) BIP38 most likely will not work on mobile devices due to hardware limitations.
 
 Here is a signed list of file names and version history.
+2018-03-03:
+Reseting version to v1.0.0 Dinero
 
 2015-11-22: status ACTIVE
 bitaddress.org-v3.1.0-SHA256-c3d4d8da8fc6980435a520dff562b7f831b2f6037ec2d4dd6bf76c5321873303.html
